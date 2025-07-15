@@ -1,0 +1,14 @@
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\bin\Debug\net9.0\BirthDate.exe
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\bin\Debug\net9.0\BirthDate.deps.json
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\bin\Debug\net9.0\BirthDate.runtimeconfig.json
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\bin\Debug\net9.0\BirthDate.dll
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\bin\Debug\net9.0\BirthDate.pdb
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.AssemblyInfoInputs.cache
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.AssemblyInfo.cs
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.csproj.CoreCompileInputs.cache
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.dll
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\refint\BirthDate.dll
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.pdb
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\BirthDate.genruntimeconfig.cache
+c:\Users\dkolo\OneDrive\Рабочий стол\BirthDate\BirthDate\obj\Debug\net9.0\ref\BirthDate.dll
